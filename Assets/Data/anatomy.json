@@ -1,0 +1,37 @@
+{
+    "atlas": 
+    [
+        {
+            "name": "Skeletal System", 
+            "description": "", 
+            "child": 
+            [
+                {
+                    "name": "Axial", 
+                    "description": "", 
+                    "point": 
+                    {
+                        "coordinate": [0.0, 5.0, 0.0],
+                        "direction": [0.0, 5.0, 0.0]
+                        
+                    }, 
+                    "tag": [0.0, 5.2, 0.0], 
+                    "child": []
+                }, 
+
+                {
+                    "name": "Appendicular", 
+                    "description": "", 
+                    "point": 
+                    {
+                        "coordinate": [-1.5, 1.75, 0.4], 
+                        "direction": [0.0, 0.0, 0.0]
+                    }, 
+                    "tag": [-2.0, 1.75, 0.4], 
+                    "child": []
+                }
+
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.3f1 (8ff31bc5bf5b) revision 9433883'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1440; Version 1909; 64bit' Language: 'en' Physical Memory: 12169 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\2020.2.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity/VisibleBody
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+36590
+Successfully changed project path to: D:/Unity/VisibleBody
+D:/Unity/VisibleBody
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 38.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.3f1 (8ff31bc5bf5b)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.2.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/VisibleBody/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   
+    VRAM:     6084 MB
+    Driver:   26.20.100.7263
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.2.3f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.2.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.2.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56360
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.2.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000973 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 37.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.452 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001101 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.463 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.7 MB.
+System memory in use after: 71.7 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1966.
+Total: 2.993000 ms (FindLiveObjects: 0.201800 ms CreateObjectMapping: 0.140000 ms MarkObjects: 2.483600 ms  DeleteObjects: 0.165900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/OrganDetail/InteractionModeTrigger.cs
+  artifactKey: Guid(887c9f31fc3ace54eaaef3e2cabd34b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/OrganDetail/InteractionModeTrigger.cs using Guid(887c9f31fc3ace54eaaef3e2cabd34b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96746fa42c5ef05dfcda727d026aeb1e') in 0.187882 seconds
+  Import took 0.202458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.602771 seconds.
+  path: Assets/Scripts/OrganDetail/InteractionModeTrigger.cs
+  artifactKey: Guid(887c9f31fc3ace54eaaef3e2cabd34b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/OrganDetail/InteractionModeTrigger.cs using Guid(887c9f31fc3ace54eaaef3e2cabd34b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72408f028363ef3350602690fcfe9c16') in 0.003472 seconds
+  Import took 0.012005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.969311 seconds.
+  path: Assets/Scripts/OrganDetail/InteractionModeTrigger.cs
+  artifactKey: Guid(887c9f31fc3ace54eaaef3e2cabd34b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/OrganDetail/InteractionModeTrigger.cs using Guid(887c9f31fc3ace54eaaef3e2cabd34b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40dc955abb9440dc6025dbb45bf21507') in 0.003233 seconds
+  Import took 0.006593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.561223 seconds.
+  path: Assets/Scripts/OrganDetail/InteractionModeTrigger23.cs
+  artifactKey: Guid(21d3e2890778cfc4396f5fa33b1fc3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/OrganDetail/InteractionModeTrigger23.cs using Guid(21d3e2890778cfc4396f5fa33b1fc3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '180d7f6fc9227bc6f0a8277834852e32') in 0.003056 seconds
+  Import took 0.009276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002875 seconds.
+  path: Assets/Scripts/OrganDetail/InteractionModeTrigger23.cs
+  artifactKey: Guid(21d3e2890778cfc4396f5fa33b1fc3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/OrganDetail/InteractionModeTrigger23.cs using Guid(21d3e2890778cfc4396f5fa33b1fc3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '180d7f6fc9227bc6f0a8277834852e32') in 0.002939 seconds
+  Import took 0.007875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 149.445423 seconds.
+  path: Assets/Scripts/OrganDetail/InteractionModeTrigger.cs
+  artifactKey: Guid(887c9f31fc3ace54eaaef3e2cabd34b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/OrganDetail/InteractionModeTrigger.cs using Guid(887c9f31fc3ace54eaaef3e2cabd34b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f965a0d12cc54a68d1da0b63ae176d0') in 0.002770 seconds
+  Import took 0.007655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.812973 seconds.
+  path: Assets/Scripts/OrganDetail/InteractionModeTrigger.cs
+  artifactKey: Guid(887c9f31fc3ace54eaaef3e2cabd34b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/OrganDetail/InteractionModeTrigger.cs using Guid(887c9f31fc3ace54eaaef3e2cabd34b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa8a2b913cf2829441528095faa1f2c') in 0.002716 seconds
+  Import took 0.013732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 564.374814 seconds.
+  path: Assets/Scripts/OrganDetail/InteractionModeTrigger.cs
+  artifactKey: Guid(887c9f31fc3ace54eaaef3e2cabd34b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/OrganDetail/InteractionModeTrigger.cs using Guid(887c9f31fc3ace54eaaef3e2cabd34b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fa29409523d99b9ebde70f7f0f86650') in 0.007756 seconds
+  Import took 0.012134 seconds .
+
